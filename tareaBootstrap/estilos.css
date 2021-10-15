@@ -1,0 +1,27 @@
+
+.proyecto, .galeria, .formulario{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.proyecto div{
+    width: 1200px;
+    height: 100%;
+}
+
+.proyecto p{
+    font-size: 1.5rem;
+}
+
+.imagenes img{
+    width: 350px;
+    height: 200px;
+}
+
+h2{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.footer{
+    height: 50px;
+}
